@@ -3,3 +3,5 @@ Hello
 My name is Baam.
 I like Java and JS
 I also ike python and C++
+
+I hate Ruby and Rust
